@@ -1,2 +1,0 @@
-# alexsyw.github.io
-web
